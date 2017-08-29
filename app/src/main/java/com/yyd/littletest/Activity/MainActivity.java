@@ -26,5 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "123132", Toast.LENGTH_LONG);
             }
         }, 0);
+
+        // resolve bug 01
     }
 }
