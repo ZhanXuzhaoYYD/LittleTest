@@ -29,5 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         // resolve bug 01
         // resolve bug 02
+        // resolve bug 03
+        // 1634
+        // 39
     }
 }
